@@ -1,2 +1,3 @@
-# Laravel zh-TW Language Pack
-Laravel language pack for Traditional Chinese.
+# Laravel Language Packs
+Self-custom Laravel language packs.
+There are only en and zh-TW packs for now on November 7, 2018.
